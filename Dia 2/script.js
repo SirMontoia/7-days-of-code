@@ -23,7 +23,7 @@ switch (resposta){
        alert ("Por favor, se atenha aos números requeridos.")
 }
 
-// O plano original seria pegar os inputs escrito no HTML, mas o metodo .value não está retornando nada */
+// Outra maneira de fazer usando HTML e tags input */
 
 
 /*
